@@ -1,4 +1,4 @@
-# 🌟 SanghaMitra - A Friend of the Coding Community
+# 🌟 SanghaMitra - A Friend of the Leet-Coding Community
 
 **SanghaMitra** (संघमित्र), meaning *"a friend of the community"*, is a smart and socially-aware LeetCode extension that helps you learn, compete, and grow with your peers. It intelligently analyzes your coding patterns, compares them with your friends’, and recommends the most meaningful problems for you to solve next.
 
